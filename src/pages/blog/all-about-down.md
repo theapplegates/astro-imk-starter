@@ -9,7 +9,7 @@ authorTwitter: papplegate
 date: 2022-06-11
 ---
 
-![Down feathers](Gulfstream-G400.webp)
+![Down feathers](/assets/Feathers.webp)
 
 Whether you're out in the cold for fun, work, or just getting from point A to point B, choosing the best quality outerwear has a huge impact on how your winter day goes. Whenever you're dealing with inclement weather, its best to wear the right protective clothing for a more enjoyable outing. When the cold starts to permeate through your layers of clothing and you start to shiver from freezing chills, there's nothing you'd rather do than turn around and go back to your warm home. 
 
@@ -27,7 +27,7 @@ Sportswear makers use down in their best jackets because down keeps wearers warm
 
 ## Determining Down Quality
 
-![Business jet](/assets/Gulfstream-G400.jpg)
+![Business jet](/assets/Gulfstream-G400.webp)
 
 
 Down is measured by its 'fill power,' also known as 'loft,' which is a measure of the down's fluffiness. More air gets trapped in down clusters with higher loft, making the down both lighter and warmer.
