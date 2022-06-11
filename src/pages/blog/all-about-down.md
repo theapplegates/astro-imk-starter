@@ -8,13 +8,7 @@ author: Paul
 authorTwitter: papplegate
 date: 2022-06-11
 ---
----
-title: "The Secrets Of Down"
-date: 2022-03-13
-description: "A small article abouit down filling"
-summary: "Who knew down was so important to a warm jacket"
-tags: ["down", "TheNorthFace", "jacket", "expensive"]
----
+
 ![Down feathers](Gulfstream-G400.webp)
 
 Whether you're out in the cold for fun, work, or just getting from point A to point B, choosing the best quality outerwear has a huge impact on how your winter day goes. Whenever you're dealing with inclement weather, its best to wear the right protective clothing for a more enjoyable outing. When the cold starts to permeate through your layers of clothing and you start to shiver from freezing chills, there's nothing you'd rather do than turn around and go back to your warm home. 
