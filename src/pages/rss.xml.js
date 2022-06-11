@@ -1,4 +1,3 @@
-// src/pages/rss.xml.js
 import rss from '@astrojs/rss';
 
 export const get = () => rss({
