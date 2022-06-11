@@ -15,7 +15,7 @@ description: "A small article abouit down filling"
 summary: "Who knew down was so important to a warm jacket"
 tags: ["down", "TheNorthFace", "jacket", "expensive"]
 ---
-![Down feathers](https://applegate-paul.mo.cloudinary.net/https://storage.googleapis.com/cloudinarymedia/hugocongo/Triple-FAT-Goose-Down-Natural-Insulator-1170x647_2ab3d199-1257-46a8-b0c4-bdec0d2630e8_2048x.progressive.jpg.webp)
+![Down feathers](Gulfstream-G400.webp)
 
 Whether you're out in the cold for fun, work, or just getting from point A to point B, choosing the best quality outerwear has a huge impact on how your winter day goes. Whenever you're dealing with inclement weather, its best to wear the right protective clothing for a more enjoyable outing. When the cold starts to permeate through your layers of clothing and you start to shiver from freezing chills, there's nothing you'd rather do than turn around and go back to your warm home. 
 
