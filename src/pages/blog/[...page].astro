@@ -9,8 +9,8 @@ let description = 'All the articles posted so far...'
 
 export async function getStaticPaths({ paginate }) {
   const allPosts = await Astro.glob('./*.md');
-  const filteredPosts = allPosts.sort((a, b) => new Date(b.frontmatter.date).valueOf() - new Date(a.frontmatter.date).valueOf());
-
+  // const filteredPosts = allPosts.sort((a, b) => new Date(b.frontmatter.date).valueOf() - new Date(a.frontmatter.date).valueOf());
+const allPosts = allPosts.sort((a, b) => new Date(b.frontmatter.publishDate).valueOf() - new Date(a.frontmatter.publishDate).valueOf());
 
 
     return paginate(sortedPosts, {
